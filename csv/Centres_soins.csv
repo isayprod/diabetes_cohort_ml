@@ -1,0 +1,25 @@
+ID centre,Nom,Région,Type
+C01,Centre de soins synthétique 01,Bruxelles-Capitale,Hôpital universitaire
+C02,Centre de soins synthétique 02,Wallonie - Brabant wallon,Hôpital général
+C03,Centre de soins synthétique 03,Wallonie - Hainaut,Maison médicale
+C04,Centre de soins synthétique 04,Wallonie - Liège,Centre de diabétologie
+C05,Centre de soins synthétique 05,Wallonie - Namur,Hôpital universitaire
+C06,Centre de soins synthétique 06,Wallonie - Luxembourg,Hôpital général
+C07,Centre de soins synthétique 07,Flandre - Anvers,Maison médicale
+C08,Centre de soins synthétique 08,Flandre - Brabant flamand,Centre de diabétologie
+C09,Centre de soins synthétique 09,Flandre - Flandre-Orientale,Hôpital universitaire
+C10,Centre de soins synthétique 10,Flandre - Flandre-Occidentale,Hôpital général
+C11,Centre de soins synthétique 11,Flandre - Limbourg,Maison médicale
+C12,Centre de soins synthétique 12,Bruxelles-Capitale,Centre de diabétologie
+C13,Centre de soins synthétique 13,Wallonie - Brabant wallon,Hôpital universitaire
+C14,Centre de soins synthétique 14,Wallonie - Hainaut,Hôpital général
+C15,Centre de soins synthétique 15,Wallonie - Liège,Maison médicale
+C16,Centre de soins synthétique 16,Wallonie - Namur,Centre de diabétologie
+C17,Centre de soins synthétique 17,Wallonie - Luxembourg,Hôpital universitaire
+C18,Centre de soins synthétique 18,Flandre - Anvers,Hôpital général
+C19,Centre de soins synthétique 19,Flandre - Brabant flamand,Maison médicale
+C20,Centre de soins synthétique 20,Flandre - Flandre-Orientale,Centre de diabétologie
+C21,Centre de soins synthétique 21,Flandre - Flandre-Occidentale,Hôpital universitaire
+C22,Centre de soins synthétique 22,Flandre - Limbourg,Hôpital général
+C23,Centre de soins synthétique 23,Bruxelles-Capitale,Maison médicale
+C24,Centre de soins synthétique 24,Wallonie - Brabant wallon,Centre de diabétologie

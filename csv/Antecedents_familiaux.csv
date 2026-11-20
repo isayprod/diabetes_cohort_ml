@@ -1,0 +1,1663 @@
+ID patient,Lien de parenté,Pathologie
+P001,Aucun,Aucun antécédent connu
+P002,Grand-parent,Hypertension
+P003,Aucun,Aucun antécédent connu
+P004,Aucun,Aucun antécédent connu
+P005,Aucun,Aucun antécédent connu
+P006,Aucun,Aucun antécédent connu
+P007,Frère,Hypertension
+P008,Aucun,Aucun antécédent connu
+P009,Aucun,Aucun antécédent connu
+P010,Sœur,Hypertension
+P010,Sœur,Hypertension
+P011,Sœur,Obésité
+P011,Grand-parent,Obésité
+P012,Aucun,Aucun antécédent connu
+P013,Aucun,Aucun antécédent connu
+P014,Aucun,Aucun antécédent connu
+P015,Aucun,Aucun antécédent connu
+P016,Aucun,Aucun antécédent connu
+P017,Sœur,Maladie cardiovasculaire
+P018,Frère,Hypertension
+P019,Aucun,Aucun antécédent connu
+P020,Aucun,Aucun antécédent connu
+P021,Aucun,Aucun antécédent connu
+P022,Aucun,Aucun antécédent connu
+P023,Mère,Maladie cardiovasculaire
+P023,Sœur,Obésité
+P023,Grand-parent,Hypertension
+P024,Aucun,Aucun antécédent connu
+P025,Aucun,Aucun antécédent connu
+P026,Aucun,Aucun antécédent connu
+P027,Aucun,Aucun antécédent connu
+P028,Aucun,Aucun antécédent connu
+P029,Aucun,Aucun antécédent connu
+P030,Sœur,Obésité
+P031,Mère,Obésité
+P032,Aucun,Aucun antécédent connu
+P033,Grand-parent,Obésité
+P033,Mère,Hypertension
+P034,Aucun,Aucun antécédent connu
+P035,Frère,Hypertension
+P035,Mère,Hypertension
+P036,Aucun,Aucun antécédent connu
+P037,Aucun,Aucun antécédent connu
+P038,Sœur,Diabète de type 2
+P039,Aucun,Aucun antécédent connu
+P040,Aucun,Aucun antécédent connu
+P041,Aucun,Aucun antécédent connu
+P042,Aucun,Aucun antécédent connu
+P043,Aucun,Aucun antécédent connu
+P044,Aucun,Aucun antécédent connu
+P045,Aucun,Aucun antécédent connu
+P046,Père,Hypertension
+P046,Frère,Diabète de type 2
+P046,Grand-parent,Diabète de type 2
+P047,Aucun,Aucun antécédent connu
+P048,Aucun,Aucun antécédent connu
+P049,Aucun,Aucun antécédent connu
+P050,Aucun,Aucun antécédent connu
+P051,Frère,Diabète de type 2
+P052,Aucun,Aucun antécédent connu
+P053,Aucun,Aucun antécédent connu
+P054,Aucun,Aucun antécédent connu
+P055,Aucun,Aucun antécédent connu
+P056,Aucun,Aucun antécédent connu
+P057,Frère,Hypertension
+P058,Aucun,Aucun antécédent connu
+P059,Frère,Obésité
+P060,Aucun,Aucun antécédent connu
+P061,Aucun,Aucun antécédent connu
+P062,Aucun,Aucun antécédent connu
+P063,Aucun,Aucun antécédent connu
+P064,Aucun,Aucun antécédent connu
+P065,Grand-parent,Hypertension
+P066,Aucun,Aucun antécédent connu
+P067,Aucun,Aucun antécédent connu
+P068,Aucun,Aucun antécédent connu
+P069,Frère,Maladie cardiovasculaire
+P070,Aucun,Aucun antécédent connu
+P071,Père,Hypertension
+P072,Aucun,Aucun antécédent connu
+P073,Aucun,Aucun antécédent connu
+P074,Aucun,Aucun antécédent connu
+P075,Aucun,Aucun antécédent connu
+P076,Aucun,Aucun antécédent connu
+P077,Aucun,Aucun antécédent connu
+P078,Aucun,Aucun antécédent connu
+P079,Aucun,Aucun antécédent connu
+P080,Père,Maladie cardiovasculaire
+P081,Sœur,Hypertension
+P082,Aucun,Aucun antécédent connu
+P083,Mère,Diabète de type 2
+P083,Frère,Diabète de type 2
+P084,Grand-parent,Hypertension
+P085,Père,Hypertension
+P086,Aucun,Aucun antécédent connu
+P087,Aucun,Aucun antécédent connu
+P088,Aucun,Aucun antécédent connu
+P089,Aucun,Aucun antécédent connu
+P090,Aucun,Aucun antécédent connu
+P091,Aucun,Aucun antécédent connu
+P092,Aucun,Aucun antécédent connu
+P093,Aucun,Aucun antécédent connu
+P094,Aucun,Aucun antécédent connu
+P095,Aucun,Aucun antécédent connu
+P096,Aucun,Aucun antécédent connu
+P097,Aucun,Aucun antécédent connu
+P098,Aucun,Aucun antécédent connu
+P099,Aucun,Aucun antécédent connu
+P100,Aucun,Aucun antécédent connu
+P101,Aucun,Aucun antécédent connu
+P102,Aucun,Aucun antécédent connu
+P103,Aucun,Aucun antécédent connu
+P104,Aucun,Aucun antécédent connu
+P105,Aucun,Aucun antécédent connu
+P106,Aucun,Aucun antécédent connu
+P107,Aucun,Aucun antécédent connu
+P108,Aucun,Aucun antécédent connu
+P109,Aucun,Aucun antécédent connu
+P110,Aucun,Aucun antécédent connu
+P111,Aucun,Aucun antécédent connu
+P112,Aucun,Aucun antécédent connu
+P113,Aucun,Aucun antécédent connu
+P114,Aucun,Aucun antécédent connu
+P115,Aucun,Aucun antécédent connu
+P116,Aucun,Aucun antécédent connu
+P117,Père,Maladie cardiovasculaire
+P118,Aucun,Aucun antécédent connu
+P119,Aucun,Aucun antécédent connu
+P120,Grand-parent,Hypertension
+P120,Grand-parent,Diabète de type 2
+P120,Mère,Diabète de type 2
+P121,Aucun,Aucun antécédent connu
+P122,Aucun,Aucun antécédent connu
+P123,Aucun,Aucun antécédent connu
+P124,Aucun,Aucun antécédent connu
+P125,Aucun,Aucun antécédent connu
+P126,Mère,Hypertension
+P127,Aucun,Aucun antécédent connu
+P128,Aucun,Aucun antécédent connu
+P129,Aucun,Aucun antécédent connu
+P130,Aucun,Aucun antécédent connu
+P131,Aucun,Aucun antécédent connu
+P132,Aucun,Aucun antécédent connu
+P133,Aucun,Aucun antécédent connu
+P134,Aucun,Aucun antécédent connu
+P135,Aucun,Aucun antécédent connu
+P136,Aucun,Aucun antécédent connu
+P137,Mère,Diabète de type 2
+P137,Sœur,Maladie cardiovasculaire
+P138,Grand-parent,Obésité
+P139,Aucun,Aucun antécédent connu
+P140,Aucun,Aucun antécédent connu
+P141,Sœur,Hypertension
+P142,Aucun,Aucun antécédent connu
+P143,Aucun,Aucun antécédent connu
+P144,Aucun,Aucun antécédent connu
+P145,Aucun,Aucun antécédent connu
+P146,Aucun,Aucun antécédent connu
+P147,Aucun,Aucun antécédent connu
+P148,Sœur,Obésité
+P148,Sœur,Obésité
+P148,Père,Maladie cardiovasculaire
+P149,Aucun,Aucun antécédent connu
+P150,Père,Diabète de type 2
+P150,Père,Obésité
+P151,Aucun,Aucun antécédent connu
+P152,Aucun,Aucun antécédent connu
+P153,Aucun,Aucun antécédent connu
+P154,Aucun,Aucun antécédent connu
+P155,Aucun,Aucun antécédent connu
+P156,Aucun,Aucun antécédent connu
+P157,Aucun,Aucun antécédent connu
+P158,Aucun,Aucun antécédent connu
+P159,Aucun,Aucun antécédent connu
+P160,Mère,Maladie cardiovasculaire
+P161,Aucun,Aucun antécédent connu
+P162,Grand-parent,Maladie cardiovasculaire
+P162,Grand-parent,Maladie cardiovasculaire
+P162,Mère,Diabète de type 2
+P163,Frère,Hypertension
+P164,Aucun,Aucun antécédent connu
+P165,Aucun,Aucun antécédent connu
+P166,Aucun,Aucun antécédent connu
+P167,Aucun,Aucun antécédent connu
+P168,Grand-parent,Diabète de type 2
+P169,Aucun,Aucun antécédent connu
+P170,Aucun,Aucun antécédent connu
+P171,Aucun,Aucun antécédent connu
+P172,Aucun,Aucun antécédent connu
+P173,Aucun,Aucun antécédent connu
+P174,Aucun,Aucun antécédent connu
+P175,Aucun,Aucun antécédent connu
+P176,Aucun,Aucun antécédent connu
+P177,Aucun,Aucun antécédent connu
+P178,Aucun,Aucun antécédent connu
+P179,Aucun,Aucun antécédent connu
+P180,Aucun,Aucun antécédent connu
+P181,Aucun,Aucun antécédent connu
+P182,Aucun,Aucun antécédent connu
+P183,Père,Maladie cardiovasculaire
+P184,Père,Diabète de type 2
+P185,Aucun,Aucun antécédent connu
+P186,Aucun,Aucun antécédent connu
+P187,Aucun,Aucun antécédent connu
+P188,Père,Diabète de type 2
+P188,Mère,Diabète de type 2
+P189,Aucun,Aucun antécédent connu
+P190,Père,Hypertension
+P190,Père,Diabète de type 2
+P190,Mère,Diabète de type 2
+P191,Aucun,Aucun antécédent connu
+P192,Aucun,Aucun antécédent connu
+P193,Aucun,Aucun antécédent connu
+P194,Aucun,Aucun antécédent connu
+P195,Aucun,Aucun antécédent connu
+P196,Aucun,Aucun antécédent connu
+P197,Aucun,Aucun antécédent connu
+P198,Aucun,Aucun antécédent connu
+P199,Grand-parent,Hypertension
+P200,Aucun,Aucun antécédent connu
+P201,Aucun,Aucun antécédent connu
+P202,Mère,Obésité
+P203,Aucun,Aucun antécédent connu
+P204,Aucun,Aucun antécédent connu
+P205,Aucun,Aucun antécédent connu
+P206,Frère,Diabète de type 2
+P206,Frère,Obésité
+P206,Grand-parent,Hypertension
+P207,Aucun,Aucun antécédent connu
+P208,Aucun,Aucun antécédent connu
+P209,Aucun,Aucun antécédent connu
+P210,Grand-parent,Obésité
+P211,Aucun,Aucun antécédent connu
+P212,Aucun,Aucun antécédent connu
+P213,Aucun,Aucun antécédent connu
+P214,Aucun,Aucun antécédent connu
+P215,Aucun,Aucun antécédent connu
+P216,Aucun,Aucun antécédent connu
+P217,Aucun,Aucun antécédent connu
+P218,Frère,Diabète de type 2
+P218,Père,Diabète de type 2
+P219,Aucun,Aucun antécédent connu
+P220,Sœur,Maladie cardiovasculaire
+P220,Grand-parent,Hypertension
+P221,Aucun,Aucun antécédent connu
+P222,Frère,Maladie cardiovasculaire
+P223,Sœur,Diabète de type 2
+P223,Mère,Diabète de type 2
+P224,Aucun,Aucun antécédent connu
+P225,Aucun,Aucun antécédent connu
+P226,Frère,Maladie cardiovasculaire
+P227,Aucun,Aucun antécédent connu
+P228,Aucun,Aucun antécédent connu
+P229,Aucun,Aucun antécédent connu
+P230,Aucun,Aucun antécédent connu
+P231,Mère,Obésité
+P231,Mère,Maladie cardiovasculaire
+P232,Aucun,Aucun antécédent connu
+P233,Aucun,Aucun antécédent connu
+P234,Aucun,Aucun antécédent connu
+P235,Aucun,Aucun antécédent connu
+P236,Aucun,Aucun antécédent connu
+P237,Aucun,Aucun antécédent connu
+P238,Grand-parent,Hypertension
+P238,Mère,Diabète de type 2
+P239,Aucun,Aucun antécédent connu
+P240,Aucun,Aucun antécédent connu
+P241,Aucun,Aucun antécédent connu
+P242,Aucun,Aucun antécédent connu
+P243,Aucun,Aucun antécédent connu
+P244,Frère,Hypertension
+P245,Aucun,Aucun antécédent connu
+P246,Aucun,Aucun antécédent connu
+P247,Sœur,Obésité
+P248,Aucun,Aucun antécédent connu
+P249,Aucun,Aucun antécédent connu
+P250,Aucun,Aucun antécédent connu
+P251,Père,Diabète de type 2
+P251,Mère,Diabète de type 2
+P252,Frère,Maladie cardiovasculaire
+P253,Aucun,Aucun antécédent connu
+P254,Aucun,Aucun antécédent connu
+P255,Sœur,Hypertension
+P256,Père,Hypertension
+P257,Aucun,Aucun antécédent connu
+P258,Aucun,Aucun antécédent connu
+P259,Aucun,Aucun antécédent connu
+P260,Aucun,Aucun antécédent connu
+P261,Aucun,Aucun antécédent connu
+P262,Aucun,Aucun antécédent connu
+P263,Sœur,Diabète de type 2
+P263,Père,Obésité
+P263,Mère,Hypertension
+P264,Aucun,Aucun antécédent connu
+P265,Aucun,Aucun antécédent connu
+P266,Aucun,Aucun antécédent connu
+P267,Aucun,Aucun antécédent connu
+P268,Sœur,Diabète de type 2
+P269,Aucun,Aucun antécédent connu
+P270,Aucun,Aucun antécédent connu
+P271,Aucun,Aucun antécédent connu
+P272,Aucun,Aucun antécédent connu
+P273,Aucun,Aucun antécédent connu
+P274,Sœur,Diabète de type 2
+P274,Mère,Diabète de type 2
+P275,Aucun,Aucun antécédent connu
+P276,Aucun,Aucun antécédent connu
+P277,Aucun,Aucun antécédent connu
+P278,Aucun,Aucun antécédent connu
+P279,Aucun,Aucun antécédent connu
+P280,Aucun,Aucun antécédent connu
+P281,Frère,Diabète de type 2
+P281,Sœur,Hypertension
+P282,Aucun,Aucun antécédent connu
+P283,Aucun,Aucun antécédent connu
+P284,Aucun,Aucun antécédent connu
+P285,Aucun,Aucun antécédent connu
+P286,Aucun,Aucun antécédent connu
+P287,Grand-parent,Diabète de type 2
+P287,Grand-parent,Hypertension
+P288,Aucun,Aucun antécédent connu
+P289,Aucun,Aucun antécédent connu
+P290,Aucun,Aucun antécédent connu
+P291,Aucun,Aucun antécédent connu
+P292,Mère,Maladie cardiovasculaire
+P292,Père,Diabète de type 2
+P293,Père,Obésité
+P293,Grand-parent,Diabète de type 2
+P294,Aucun,Aucun antécédent connu
+P295,Aucun,Aucun antécédent connu
+P296,Mère,Diabète de type 2
+P297,Aucun,Aucun antécédent connu
+P298,Aucun,Aucun antécédent connu
+P299,Aucun,Aucun antécédent connu
+P300,Aucun,Aucun antécédent connu
+P301,Aucun,Aucun antécédent connu
+P302,Grand-parent,Maladie cardiovasculaire
+P302,Grand-parent,Obésité
+P303,Aucun,Aucun antécédent connu
+P304,Aucun,Aucun antécédent connu
+P305,Aucun,Aucun antécédent connu
+P306,Aucun,Aucun antécédent connu
+P307,Aucun,Aucun antécédent connu
+P308,Aucun,Aucun antécédent connu
+P309,Aucun,Aucun antécédent connu
+P310,Aucun,Aucun antécédent connu
+P311,Aucun,Aucun antécédent connu
+P312,Aucun,Aucun antécédent connu
+P313,Aucun,Aucun antécédent connu
+P314,Aucun,Aucun antécédent connu
+P315,Aucun,Aucun antécédent connu
+P316,Aucun,Aucun antécédent connu
+P317,Aucun,Aucun antécédent connu
+P318,Grand-parent,Diabète de type 2
+P319,Aucun,Aucun antécédent connu
+P320,Aucun,Aucun antécédent connu
+P321,Aucun,Aucun antécédent connu
+P322,Aucun,Aucun antécédent connu
+P323,Aucun,Aucun antécédent connu
+P324,Grand-parent,Hypertension
+P324,Frère,Hypertension
+P324,Mère,Hypertension
+P325,Aucun,Aucun antécédent connu
+P326,Aucun,Aucun antécédent connu
+P327,Aucun,Aucun antécédent connu
+P328,Aucun,Aucun antécédent connu
+P329,Aucun,Aucun antécédent connu
+P330,Aucun,Aucun antécédent connu
+P331,Aucun,Aucun antécédent connu
+P332,Aucun,Aucun antécédent connu
+P333,Aucun,Aucun antécédent connu
+P334,Aucun,Aucun antécédent connu
+P335,Sœur,Obésité
+P335,Père,Maladie cardiovasculaire
+P336,Aucun,Aucun antécédent connu
+P337,Aucun,Aucun antécédent connu
+P338,Aucun,Aucun antécédent connu
+P339,Aucun,Aucun antécédent connu
+P340,Aucun,Aucun antécédent connu
+P341,Aucun,Aucun antécédent connu
+P342,Sœur,Diabète de type 2
+P343,Aucun,Aucun antécédent connu
+P344,Aucun,Aucun antécédent connu
+P345,Aucun,Aucun antécédent connu
+P346,Aucun,Aucun antécédent connu
+P347,Aucun,Aucun antécédent connu
+P348,Aucun,Aucun antécédent connu
+P349,Aucun,Aucun antécédent connu
+P350,Aucun,Aucun antécédent connu
+P351,Aucun,Aucun antécédent connu
+P352,Aucun,Aucun antécédent connu
+P353,Aucun,Aucun antécédent connu
+P354,Aucun,Aucun antécédent connu
+P355,Aucun,Aucun antécédent connu
+P356,Aucun,Aucun antécédent connu
+P357,Aucun,Aucun antécédent connu
+P358,Aucun,Aucun antécédent connu
+P359,Aucun,Aucun antécédent connu
+P360,Sœur,Hypertension
+P360,Frère,Diabète de type 2
+P361,Père,Maladie cardiovasculaire
+P362,Aucun,Aucun antécédent connu
+P363,Aucun,Aucun antécédent connu
+P364,Aucun,Aucun antécédent connu
+P365,Aucun,Aucun antécédent connu
+P366,Aucun,Aucun antécédent connu
+P367,Aucun,Aucun antécédent connu
+P368,Aucun,Aucun antécédent connu
+P369,Aucun,Aucun antécédent connu
+P370,Aucun,Aucun antécédent connu
+P371,Sœur,Hypertension
+P372,Aucun,Aucun antécédent connu
+P373,Aucun,Aucun antécédent connu
+P374,Aucun,Aucun antécédent connu
+P375,Frère,Diabète de type 2
+P375,Grand-parent,Hypertension
+P375,Frère,Obésité
+P376,Aucun,Aucun antécédent connu
+P377,Aucun,Aucun antécédent connu
+P378,Aucun,Aucun antécédent connu
+P379,Aucun,Aucun antécédent connu
+P380,Aucun,Aucun antécédent connu
+P381,Aucun,Aucun antécédent connu
+P382,Aucun,Aucun antécédent connu
+P383,Aucun,Aucun antécédent connu
+P384,Aucun,Aucun antécédent connu
+P385,Aucun,Aucun antécédent connu
+P386,Aucun,Aucun antécédent connu
+P387,Aucun,Aucun antécédent connu
+P388,Aucun,Aucun antécédent connu
+P389,Aucun,Aucun antécédent connu
+P390,Aucun,Aucun antécédent connu
+P391,Aucun,Aucun antécédent connu
+P392,Aucun,Aucun antécédent connu
+P393,Aucun,Aucun antécédent connu
+P394,Aucun,Aucun antécédent connu
+P395,Aucun,Aucun antécédent connu
+P396,Aucun,Aucun antécédent connu
+P397,Père,Hypertension
+P398,Aucun,Aucun antécédent connu
+P399,Aucun,Aucun antécédent connu
+P400,Aucun,Aucun antécédent connu
+P401,Aucun,Aucun antécédent connu
+P402,Grand-parent,Obésité
+P402,Mère,Diabète de type 2
+P403,Aucun,Aucun antécédent connu
+P404,Aucun,Aucun antécédent connu
+P405,Aucun,Aucun antécédent connu
+P406,Aucun,Aucun antécédent connu
+P407,Aucun,Aucun antécédent connu
+P408,Aucun,Aucun antécédent connu
+P409,Frère,Maladie cardiovasculaire
+P410,Aucun,Aucun antécédent connu
+P411,Aucun,Aucun antécédent connu
+P412,Frère,Maladie cardiovasculaire
+P413,Aucun,Aucun antécédent connu
+P414,Aucun,Aucun antécédent connu
+P415,Sœur,Hypertension
+P416,Aucun,Aucun antécédent connu
+P417,Aucun,Aucun antécédent connu
+P418,Aucun,Aucun antécédent connu
+P419,Frère,Diabète de type 2
+P420,Aucun,Aucun antécédent connu
+P421,Aucun,Aucun antécédent connu
+P422,Aucun,Aucun antécédent connu
+P423,Sœur,Maladie cardiovasculaire
+P423,Mère,Obésité
+P423,Père,Obésité
+P424,Aucun,Aucun antécédent connu
+P425,Aucun,Aucun antécédent connu
+P426,Aucun,Aucun antécédent connu
+P427,Aucun,Aucun antécédent connu
+P428,Aucun,Aucun antécédent connu
+P429,Mère,Diabète de type 2
+P429,Mère,Hypertension
+P430,Aucun,Aucun antécédent connu
+P431,Aucun,Aucun antécédent connu
+P432,Aucun,Aucun antécédent connu
+P433,Aucun,Aucun antécédent connu
+P434,Grand-parent,Obésité
+P435,Aucun,Aucun antécédent connu
+P436,Mère,Hypertension
+P436,Sœur,Hypertension
+P436,Frère,Hypertension
+P437,Aucun,Aucun antécédent connu
+P438,Aucun,Aucun antécédent connu
+P439,Aucun,Aucun antécédent connu
+P440,Aucun,Aucun antécédent connu
+P441,Aucun,Aucun antécédent connu
+P442,Sœur,Diabète de type 2
+P442,Frère,Maladie cardiovasculaire
+P443,Aucun,Aucun antécédent connu
+P444,Aucun,Aucun antécédent connu
+P445,Aucun,Aucun antécédent connu
+P446,Grand-parent,Diabète de type 2
+P447,Père,Obésité
+P448,Grand-parent,Diabète de type 2
+P448,Frère,Maladie cardiovasculaire
+P449,Aucun,Aucun antécédent connu
+P450,Aucun,Aucun antécédent connu
+P451,Grand-parent,Hypertension
+P452,Aucun,Aucun antécédent connu
+P453,Aucun,Aucun antécédent connu
+P454,Aucun,Aucun antécédent connu
+P455,Aucun,Aucun antécédent connu
+P456,Aucun,Aucun antécédent connu
+P457,Aucun,Aucun antécédent connu
+P458,Aucun,Aucun antécédent connu
+P459,Aucun,Aucun antécédent connu
+P460,Aucun,Aucun antécédent connu
+P461,Aucun,Aucun antécédent connu
+P462,Mère,Obésité
+P462,Sœur,Diabète de type 2
+P463,Aucun,Aucun antécédent connu
+P464,Aucun,Aucun antécédent connu
+P465,Père,Diabète de type 2
+P466,Aucun,Aucun antécédent connu
+P467,Aucun,Aucun antécédent connu
+P468,Mère,Diabète de type 2
+P469,Aucun,Aucun antécédent connu
+P470,Aucun,Aucun antécédent connu
+P471,Aucun,Aucun antécédent connu
+P472,Aucun,Aucun antécédent connu
+P473,Aucun,Aucun antécédent connu
+P474,Aucun,Aucun antécédent connu
+P475,Aucun,Aucun antécédent connu
+P476,Aucun,Aucun antécédent connu
+P477,Aucun,Aucun antécédent connu
+P478,Aucun,Aucun antécédent connu
+P479,Aucun,Aucun antécédent connu
+P480,Aucun,Aucun antécédent connu
+P481,Aucun,Aucun antécédent connu
+P482,Aucun,Aucun antécédent connu
+P483,Aucun,Aucun antécédent connu
+P484,Aucun,Aucun antécédent connu
+P485,Aucun,Aucun antécédent connu
+P486,Mère,Diabète de type 2
+P486,Mère,Diabète de type 2
+P487,Aucun,Aucun antécédent connu
+P488,Aucun,Aucun antécédent connu
+P489,Aucun,Aucun antécédent connu
+P490,Aucun,Aucun antécédent connu
+P491,Aucun,Aucun antécédent connu
+P492,Aucun,Aucun antécédent connu
+P493,Aucun,Aucun antécédent connu
+P494,Aucun,Aucun antécédent connu
+P495,Sœur,Diabète de type 2
+P496,Grand-parent,Obésité
+P497,Aucun,Aucun antécédent connu
+P498,Aucun,Aucun antécédent connu
+P499,Aucun,Aucun antécédent connu
+P500,Aucun,Aucun antécédent connu
+P501,Aucun,Aucun antécédent connu
+P502,Aucun,Aucun antécédent connu
+P503,Aucun,Aucun antécédent connu
+P504,Aucun,Aucun antécédent connu
+P505,Sœur,Obésité
+P506,Aucun,Aucun antécédent connu
+P507,Grand-parent,Obésité
+P507,Sœur,Diabète de type 2
+P508,Aucun,Aucun antécédent connu
+P509,Père,Obésité
+P510,Aucun,Aucun antécédent connu
+P511,Aucun,Aucun antécédent connu
+P512,Aucun,Aucun antécédent connu
+P513,Sœur,Maladie cardiovasculaire
+P514,Aucun,Aucun antécédent connu
+P515,Aucun,Aucun antécédent connu
+P516,Sœur,Hypertension
+P516,Grand-parent,Diabète de type 2
+P516,Frère,Diabète de type 2
+P517,Aucun,Aucun antécédent connu
+P518,Aucun,Aucun antécédent connu
+P519,Aucun,Aucun antécédent connu
+P520,Aucun,Aucun antécédent connu
+P521,Aucun,Aucun antécédent connu
+P522,Aucun,Aucun antécédent connu
+P523,Aucun,Aucun antécédent connu
+P524,Aucun,Aucun antécédent connu
+P525,Aucun,Aucun antécédent connu
+P526,Grand-parent,Maladie cardiovasculaire
+P526,Sœur,Hypertension
+P527,Aucun,Aucun antécédent connu
+P528,Aucun,Aucun antécédent connu
+P529,Aucun,Aucun antécédent connu
+P530,Grand-parent,Obésité
+P531,Aucun,Aucun antécédent connu
+P532,Sœur,Diabète de type 2
+P533,Aucun,Aucun antécédent connu
+P534,Aucun,Aucun antécédent connu
+P535,Aucun,Aucun antécédent connu
+P536,Aucun,Aucun antécédent connu
+P537,Aucun,Aucun antécédent connu
+P538,Aucun,Aucun antécédent connu
+P539,Aucun,Aucun antécédent connu
+P540,Aucun,Aucun antécédent connu
+P541,Aucun,Aucun antécédent connu
+P542,Aucun,Aucun antécédent connu
+P543,Aucun,Aucun antécédent connu
+P544,Aucun,Aucun antécédent connu
+P545,Aucun,Aucun antécédent connu
+P546,Père,Hypertension
+P546,Grand-parent,Diabète de type 2
+P547,Aucun,Aucun antécédent connu
+P548,Frère,Maladie cardiovasculaire
+P549,Aucun,Aucun antécédent connu
+P550,Aucun,Aucun antécédent connu
+P551,Aucun,Aucun antécédent connu
+P552,Aucun,Aucun antécédent connu
+P553,Grand-parent,Diabète de type 2
+P554,Aucun,Aucun antécédent connu
+P555,Aucun,Aucun antécédent connu
+P556,Aucun,Aucun antécédent connu
+P557,Aucun,Aucun antécédent connu
+P558,Aucun,Aucun antécédent connu
+P559,Aucun,Aucun antécédent connu
+P560,Aucun,Aucun antécédent connu
+P561,Aucun,Aucun antécédent connu
+P562,Aucun,Aucun antécédent connu
+P563,Aucun,Aucun antécédent connu
+P564,Aucun,Aucun antécédent connu
+P565,Aucun,Aucun antécédent connu
+P566,Aucun,Aucun antécédent connu
+P567,Aucun,Aucun antécédent connu
+P568,Aucun,Aucun antécédent connu
+P569,Aucun,Aucun antécédent connu
+P570,Aucun,Aucun antécédent connu
+P571,Aucun,Aucun antécédent connu
+P572,Aucun,Aucun antécédent connu
+P573,Aucun,Aucun antécédent connu
+P574,Aucun,Aucun antécédent connu
+P575,Aucun,Aucun antécédent connu
+P576,Aucun,Aucun antécédent connu
+P577,Aucun,Aucun antécédent connu
+P578,Aucun,Aucun antécédent connu
+P579,Aucun,Aucun antécédent connu
+P580,Grand-parent,Diabète de type 2
+P581,Aucun,Aucun antécédent connu
+P582,Aucun,Aucun antécédent connu
+P583,Mère,Maladie cardiovasculaire
+P584,Aucun,Aucun antécédent connu
+P585,Aucun,Aucun antécédent connu
+P586,Père,Diabète de type 2
+P587,Aucun,Aucun antécédent connu
+P588,Aucun,Aucun antécédent connu
+P589,Aucun,Aucun antécédent connu
+P590,Aucun,Aucun antécédent connu
+P591,Aucun,Aucun antécédent connu
+P592,Aucun,Aucun antécédent connu
+P593,Frère,Maladie cardiovasculaire
+P594,Aucun,Aucun antécédent connu
+P595,Aucun,Aucun antécédent connu
+P596,Aucun,Aucun antécédent connu
+P597,Aucun,Aucun antécédent connu
+P598,Aucun,Aucun antécédent connu
+P599,Aucun,Aucun antécédent connu
+P600,Aucun,Aucun antécédent connu
+P601,Sœur,Hypertension
+P601,Frère,Obésité
+P602,Aucun,Aucun antécédent connu
+P603,Aucun,Aucun antécédent connu
+P604,Aucun,Aucun antécédent connu
+P605,Aucun,Aucun antécédent connu
+P606,Aucun,Aucun antécédent connu
+P607,Aucun,Aucun antécédent connu
+P608,Aucun,Aucun antécédent connu
+P609,Aucun,Aucun antécédent connu
+P610,Père,Diabète de type 2
+P611,Frère,Maladie cardiovasculaire
+P611,Frère,Obésité
+P612,Aucun,Aucun antécédent connu
+P613,Frère,Maladie cardiovasculaire
+P613,Mère,Hypertension
+P614,Aucun,Aucun antécédent connu
+P615,Aucun,Aucun antécédent connu
+P616,Aucun,Aucun antécédent connu
+P617,Aucun,Aucun antécédent connu
+P618,Aucun,Aucun antécédent connu
+P619,Aucun,Aucun antécédent connu
+P620,Aucun,Aucun antécédent connu
+P621,Aucun,Aucun antécédent connu
+P622,Aucun,Aucun antécédent connu
+P623,Aucun,Aucun antécédent connu
+P624,Aucun,Aucun antécédent connu
+P625,Grand-parent,Diabète de type 2
+P625,Père,Obésité
+P625,Sœur,Obésité
+P626,Aucun,Aucun antécédent connu
+P627,Aucun,Aucun antécédent connu
+P628,Aucun,Aucun antécédent connu
+P629,Aucun,Aucun antécédent connu
+P630,Aucun,Aucun antécédent connu
+P631,Aucun,Aucun antécédent connu
+P632,Aucun,Aucun antécédent connu
+P633,Grand-parent,Obésité
+P633,Grand-parent,Diabète de type 2
+P634,Aucun,Aucun antécédent connu
+P635,Père,Obésité
+P635,Sœur,Diabète de type 2
+P636,Aucun,Aucun antécédent connu
+P637,Aucun,Aucun antécédent connu
+P638,Aucun,Aucun antécédent connu
+P639,Aucun,Aucun antécédent connu
+P640,Frère,Maladie cardiovasculaire
+P641,Aucun,Aucun antécédent connu
+P642,Aucun,Aucun antécédent connu
+P643,Aucun,Aucun antécédent connu
+P644,Aucun,Aucun antécédent connu
+P645,Père,Hypertension
+P645,Père,Diabète de type 2
+P646,Aucun,Aucun antécédent connu
+P647,Aucun,Aucun antécédent connu
+P648,Père,Maladie cardiovasculaire
+P649,Grand-parent,Maladie cardiovasculaire
+P650,Frère,Maladie cardiovasculaire
+P651,Aucun,Aucun antécédent connu
+P652,Grand-parent,Diabète de type 2
+P652,Grand-parent,Maladie cardiovasculaire
+P652,Frère,Hypertension
+P653,Aucun,Aucun antécédent connu
+P654,Aucun,Aucun antécédent connu
+P655,Aucun,Aucun antécédent connu
+P656,Aucun,Aucun antécédent connu
+P657,Sœur,Diabète de type 2
+P658,Aucun,Aucun antécédent connu
+P659,Aucun,Aucun antécédent connu
+P660,Aucun,Aucun antécédent connu
+P661,Aucun,Aucun antécédent connu
+P662,Aucun,Aucun antécédent connu
+P663,Aucun,Aucun antécédent connu
+P664,Aucun,Aucun antécédent connu
+P665,Père,Obésité
+P666,Aucun,Aucun antécédent connu
+P667,Aucun,Aucun antécédent connu
+P668,Aucun,Aucun antécédent connu
+P669,Aucun,Aucun antécédent connu
+P670,Aucun,Aucun antécédent connu
+P671,Aucun,Aucun antécédent connu
+P672,Aucun,Aucun antécédent connu
+P673,Aucun,Aucun antécédent connu
+P674,Aucun,Aucun antécédent connu
+P675,Aucun,Aucun antécédent connu
+P676,Aucun,Aucun antécédent connu
+P677,Aucun,Aucun antécédent connu
+P678,Aucun,Aucun antécédent connu
+P679,Aucun,Aucun antécédent connu
+P680,Père,Hypertension
+P681,Aucun,Aucun antécédent connu
+P682,Mère,Hypertension
+P683,Aucun,Aucun antécédent connu
+P684,Frère,Hypertension
+P685,Père,Obésité
+P686,Aucun,Aucun antécédent connu
+P687,Aucun,Aucun antécédent connu
+P688,Frère,Maladie cardiovasculaire
+P688,Frère,Obésité
+P688,Père,Diabète de type 2
+P689,Frère,Maladie cardiovasculaire
+P690,Aucun,Aucun antécédent connu
+P691,Aucun,Aucun antécédent connu
+P692,Aucun,Aucun antécédent connu
+P693,Aucun,Aucun antécédent connu
+P694,Aucun,Aucun antécédent connu
+P695,Aucun,Aucun antécédent connu
+P696,Aucun,Aucun antécédent connu
+P697,Aucun,Aucun antécédent connu
+P698,Mère,Maladie cardiovasculaire
+P698,Frère,Obésité
+P698,Mère,Diabète de type 2
+P699,Aucun,Aucun antécédent connu
+P700,Aucun,Aucun antécédent connu
+P701,Aucun,Aucun antécédent connu
+P702,Aucun,Aucun antécédent connu
+P703,Sœur,Diabète de type 2
+P704,Aucun,Aucun antécédent connu
+P705,Sœur,Obésité
+P705,Grand-parent,Obésité
+P706,Aucun,Aucun antécédent connu
+P707,Aucun,Aucun antécédent connu
+P708,Aucun,Aucun antécédent connu
+P709,Aucun,Aucun antécédent connu
+P710,Aucun,Aucun antécédent connu
+P711,Aucun,Aucun antécédent connu
+P712,Aucun,Aucun antécédent connu
+P713,Aucun,Aucun antécédent connu
+P714,Aucun,Aucun antécédent connu
+P715,Aucun,Aucun antécédent connu
+P716,Aucun,Aucun antécédent connu
+P717,Aucun,Aucun antécédent connu
+P718,Aucun,Aucun antécédent connu
+P719,Aucun,Aucun antécédent connu
+P720,Aucun,Aucun antécédent connu
+P721,Aucun,Aucun antécédent connu
+P722,Frère,Hypertension
+P722,Père,Diabète de type 2
+P722,Père,Hypertension
+P723,Aucun,Aucun antécédent connu
+P724,Aucun,Aucun antécédent connu
+P725,Aucun,Aucun antécédent connu
+P726,Aucun,Aucun antécédent connu
+P727,Aucun,Aucun antécédent connu
+P728,Aucun,Aucun antécédent connu
+P729,Aucun,Aucun antécédent connu
+P730,Aucun,Aucun antécédent connu
+P731,Aucun,Aucun antécédent connu
+P732,Aucun,Aucun antécédent connu
+P733,Aucun,Aucun antécédent connu
+P734,Frère,Diabète de type 2
+P735,Aucun,Aucun antécédent connu
+P736,Sœur,Diabète de type 2
+P737,Aucun,Aucun antécédent connu
+P738,Aucun,Aucun antécédent connu
+P739,Aucun,Aucun antécédent connu
+P740,Aucun,Aucun antécédent connu
+P741,Sœur,Diabète de type 2
+P741,Grand-parent,Maladie cardiovasculaire
+P741,Sœur,Diabète de type 2
+P742,Aucun,Aucun antécédent connu
+P743,Aucun,Aucun antécédent connu
+P744,Père,Diabète de type 2
+P744,Mère,Diabète de type 2
+P745,Aucun,Aucun antécédent connu
+P746,Aucun,Aucun antécédent connu
+P747,Mère,Maladie cardiovasculaire
+P748,Aucun,Aucun antécédent connu
+P749,Mère,Diabète de type 2
+P750,Aucun,Aucun antécédent connu
+P751,Aucun,Aucun antécédent connu
+P752,Aucun,Aucun antécédent connu
+P753,Père,Diabète de type 2
+P753,Grand-parent,Diabète de type 2
+P753,Père,Diabète de type 2
+P754,Aucun,Aucun antécédent connu
+P755,Aucun,Aucun antécédent connu
+P756,Aucun,Aucun antécédent connu
+P757,Aucun,Aucun antécédent connu
+P758,Aucun,Aucun antécédent connu
+P759,Aucun,Aucun antécédent connu
+P760,Aucun,Aucun antécédent connu
+P761,Aucun,Aucun antécédent connu
+P762,Aucun,Aucun antécédent connu
+P763,Frère,Diabète de type 2
+P763,Mère,Maladie cardiovasculaire
+P763,Sœur,Obésité
+P764,Aucun,Aucun antécédent connu
+P765,Aucun,Aucun antécédent connu
+P766,Aucun,Aucun antécédent connu
+P767,Aucun,Aucun antécédent connu
+P768,Aucun,Aucun antécédent connu
+P769,Aucun,Aucun antécédent connu
+P770,Aucun,Aucun antécédent connu
+P771,Père,Diabète de type 2
+P772,Aucun,Aucun antécédent connu
+P773,Aucun,Aucun antécédent connu
+P774,Aucun,Aucun antécédent connu
+P775,Aucun,Aucun antécédent connu
+P776,Aucun,Aucun antécédent connu
+P777,Aucun,Aucun antécédent connu
+P778,Aucun,Aucun antécédent connu
+P779,Aucun,Aucun antécédent connu
+P780,Mère,Obésité
+P780,Sœur,Hypertension
+P781,Aucun,Aucun antécédent connu
+P782,Aucun,Aucun antécédent connu
+P783,Grand-parent,Hypertension
+P783,Mère,Hypertension
+P784,Aucun,Aucun antécédent connu
+P785,Aucun,Aucun antécédent connu
+P786,Aucun,Aucun antécédent connu
+P787,Aucun,Aucun antécédent connu
+P788,Aucun,Aucun antécédent connu
+P789,Aucun,Aucun antécédent connu
+P790,Aucun,Aucun antécédent connu
+P791,Aucun,Aucun antécédent connu
+P792,Aucun,Aucun antécédent connu
+P793,Grand-parent,Obésité
+P793,Père,Hypertension
+P794,Aucun,Aucun antécédent connu
+P795,Aucun,Aucun antécédent connu
+P796,Aucun,Aucun antécédent connu
+P797,Aucun,Aucun antécédent connu
+P798,Aucun,Aucun antécédent connu
+P799,Grand-parent,Hypertension
+P800,Père,Diabète de type 2
+P801,Aucun,Aucun antécédent connu
+P802,Père,Hypertension
+P802,Mère,Obésité
+P803,Aucun,Aucun antécédent connu
+P804,Aucun,Aucun antécédent connu
+P805,Aucun,Aucun antécédent connu
+P806,Aucun,Aucun antécédent connu
+P807,Frère,Obésité
+P807,Mère,Obésité
+P808,Aucun,Aucun antécédent connu
+P809,Aucun,Aucun antécédent connu
+P810,Aucun,Aucun antécédent connu
+P811,Grand-parent,Maladie cardiovasculaire
+P812,Aucun,Aucun antécédent connu
+P813,Aucun,Aucun antécédent connu
+P814,Aucun,Aucun antécédent connu
+P815,Père,Hypertension
+P816,Aucun,Aucun antécédent connu
+P817,Aucun,Aucun antécédent connu
+P818,Aucun,Aucun antécédent connu
+P819,Aucun,Aucun antécédent connu
+P820,Grand-parent,Obésité
+P821,Aucun,Aucun antécédent connu
+P822,Aucun,Aucun antécédent connu
+P823,Aucun,Aucun antécédent connu
+P824,Aucun,Aucun antécédent connu
+P825,Aucun,Aucun antécédent connu
+P826,Aucun,Aucun antécédent connu
+P827,Aucun,Aucun antécédent connu
+P828,Aucun,Aucun antécédent connu
+P829,Mère,Hypertension
+P829,Grand-parent,Obésité
+P830,Aucun,Aucun antécédent connu
+P831,Aucun,Aucun antécédent connu
+P832,Aucun,Aucun antécédent connu
+P833,Aucun,Aucun antécédent connu
+P834,Aucun,Aucun antécédent connu
+P835,Aucun,Aucun antécédent connu
+P836,Aucun,Aucun antécédent connu
+P837,Mère,Maladie cardiovasculaire
+P837,Sœur,Diabète de type 2
+P838,Aucun,Aucun antécédent connu
+P839,Aucun,Aucun antécédent connu
+P840,Aucun,Aucun antécédent connu
+P841,Aucun,Aucun antécédent connu
+P842,Aucun,Aucun antécédent connu
+P843,Aucun,Aucun antécédent connu
+P844,Aucun,Aucun antécédent connu
+P845,Aucun,Aucun antécédent connu
+P846,Aucun,Aucun antécédent connu
+P847,Aucun,Aucun antécédent connu
+P848,Frère,Maladie cardiovasculaire
+P848,Grand-parent,Obésité
+P849,Aucun,Aucun antécédent connu
+P850,Aucun,Aucun antécédent connu
+P851,Aucun,Aucun antécédent connu
+P852,Aucun,Aucun antécédent connu
+P853,Aucun,Aucun antécédent connu
+P854,Aucun,Aucun antécédent connu
+P855,Aucun,Aucun antécédent connu
+P856,Aucun,Aucun antécédent connu
+P857,Aucun,Aucun antécédent connu
+P858,Sœur,Diabète de type 2
+P859,Aucun,Aucun antécédent connu
+P860,Frère,Maladie cardiovasculaire
+P861,Aucun,Aucun antécédent connu
+P862,Sœur,Obésité
+P862,Frère,Hypertension
+P862,Frère,Obésité
+P863,Aucun,Aucun antécédent connu
+P864,Aucun,Aucun antécédent connu
+P865,Aucun,Aucun antécédent connu
+P866,Aucun,Aucun antécédent connu
+P867,Aucun,Aucun antécédent connu
+P868,Aucun,Aucun antécédent connu
+P869,Aucun,Aucun antécédent connu
+P870,Aucun,Aucun antécédent connu
+P871,Sœur,Hypertension
+P871,Sœur,Diabète de type 2
+P872,Aucun,Aucun antécédent connu
+P873,Aucun,Aucun antécédent connu
+P874,Aucun,Aucun antécédent connu
+P875,Aucun,Aucun antécédent connu
+P876,Aucun,Aucun antécédent connu
+P877,Aucun,Aucun antécédent connu
+P878,Aucun,Aucun antécédent connu
+P879,Grand-parent,Hypertension
+P880,Aucun,Aucun antécédent connu
+P881,Aucun,Aucun antécédent connu
+P882,Aucun,Aucun antécédent connu
+P883,Aucun,Aucun antécédent connu
+P884,Aucun,Aucun antécédent connu
+P885,Aucun,Aucun antécédent connu
+P886,Aucun,Aucun antécédent connu
+P887,Aucun,Aucun antécédent connu
+P888,Aucun,Aucun antécédent connu
+P889,Sœur,Hypertension
+P890,Grand-parent,Maladie cardiovasculaire
+P890,Père,Obésité
+P891,Aucun,Aucun antécédent connu
+P892,Aucun,Aucun antécédent connu
+P893,Aucun,Aucun antécédent connu
+P894,Aucun,Aucun antécédent connu
+P895,Aucun,Aucun antécédent connu
+P896,Mère,Diabète de type 2
+P897,Aucun,Aucun antécédent connu
+P898,Aucun,Aucun antécédent connu
+P899,Mère,Hypertension
+P900,Aucun,Aucun antécédent connu
+P901,Grand-parent,Diabète de type 2
+P902,Aucun,Aucun antécédent connu
+P903,Aucun,Aucun antécédent connu
+P904,Aucun,Aucun antécédent connu
+P905,Frère,Maladie cardiovasculaire
+P906,Aucun,Aucun antécédent connu
+P907,Aucun,Aucun antécédent connu
+P908,Père,Hypertension
+P909,Aucun,Aucun antécédent connu
+P910,Aucun,Aucun antécédent connu
+P911,Aucun,Aucun antécédent connu
+P912,Aucun,Aucun antécédent connu
+P913,Frère,Obésité
+P914,Aucun,Aucun antécédent connu
+P915,Aucun,Aucun antécédent connu
+P916,Aucun,Aucun antécédent connu
+P917,Aucun,Aucun antécédent connu
+P918,Mère,Hypertension
+P919,Aucun,Aucun antécédent connu
+P920,Aucun,Aucun antécédent connu
+P921,Aucun,Aucun antécédent connu
+P922,Aucun,Aucun antécédent connu
+P923,Sœur,Diabète de type 2
+P923,Père,Maladie cardiovasculaire
+P924,Aucun,Aucun antécédent connu
+P925,Aucun,Aucun antécédent connu
+P926,Aucun,Aucun antécédent connu
+P927,Aucun,Aucun antécédent connu
+P928,Père,Hypertension
+P929,Aucun,Aucun antécédent connu
+P930,Aucun,Aucun antécédent connu
+P931,Aucun,Aucun antécédent connu
+P932,Grand-parent,Hypertension
+P932,Mère,Hypertension
+P933,Aucun,Aucun antécédent connu
+P934,Frère,Diabète de type 2
+P934,Sœur,Diabète de type 2
+P934,Sœur,Diabète de type 2
+P935,Aucun,Aucun antécédent connu
+P936,Aucun,Aucun antécédent connu
+P937,Aucun,Aucun antécédent connu
+P938,Aucun,Aucun antécédent connu
+P939,Mère,Diabète de type 2
+P939,Frère,Obésité
+P940,Aucun,Aucun antécédent connu
+P941,Aucun,Aucun antécédent connu
+P942,Mère,Maladie cardiovasculaire
+P943,Grand-parent,Obésité
+P943,Sœur,Obésité
+P944,Aucun,Aucun antécédent connu
+P945,Aucun,Aucun antécédent connu
+P946,Aucun,Aucun antécédent connu
+P947,Aucun,Aucun antécédent connu
+P948,Aucun,Aucun antécédent connu
+P949,Aucun,Aucun antécédent connu
+P950,Aucun,Aucun antécédent connu
+P951,Aucun,Aucun antécédent connu
+P952,Père,Obésité
+P952,Frère,Hypertension
+P953,Mère,Hypertension
+P953,Père,Obésité
+P954,Grand-parent,Maladie cardiovasculaire
+P954,Père,Maladie cardiovasculaire
+P955,Aucun,Aucun antécédent connu
+P956,Grand-parent,Obésité
+P956,Père,Hypertension
+P957,Aucun,Aucun antécédent connu
+P958,Aucun,Aucun antécédent connu
+P959,Frère,Hypertension
+P960,Aucun,Aucun antécédent connu
+P961,Aucun,Aucun antécédent connu
+P962,Aucun,Aucun antécédent connu
+P963,Aucun,Aucun antécédent connu
+P964,Aucun,Aucun antécédent connu
+P965,Aucun,Aucun antécédent connu
+P966,Sœur,Hypertension
+P966,Grand-parent,Maladie cardiovasculaire
+P967,Aucun,Aucun antécédent connu
+P968,Aucun,Aucun antécédent connu
+P969,Aucun,Aucun antécédent connu
+P970,Frère,Diabète de type 2
+P970,Grand-parent,Diabète de type 2
+P970,Sœur,Diabète de type 2
+P971,Aucun,Aucun antécédent connu
+P972,Aucun,Aucun antécédent connu
+P973,Frère,Obésité
+P973,Sœur,Hypertension
+P974,Aucun,Aucun antécédent connu
+P975,Aucun,Aucun antécédent connu
+P976,Frère,Hypertension
+P977,Aucun,Aucun antécédent connu
+P978,Aucun,Aucun antécédent connu
+P979,Aucun,Aucun antécédent connu
+P980,Aucun,Aucun antécédent connu
+P981,Frère,Obésité
+P982,Mère,Diabète de type 2
+P982,Mère,Diabète de type 2
+P983,Aucun,Aucun antécédent connu
+P984,Aucun,Aucun antécédent connu
+P985,Aucun,Aucun antécédent connu
+P986,Aucun,Aucun antécédent connu
+P987,Aucun,Aucun antécédent connu
+P988,Aucun,Aucun antécédent connu
+P989,Aucun,Aucun antécédent connu
+P990,Mère,Hypertension
+P990,Frère,Maladie cardiovasculaire
+P991,Mère,Maladie cardiovasculaire
+P992,Aucun,Aucun antécédent connu
+P993,Aucun,Aucun antécédent connu
+P994,Aucun,Aucun antécédent connu
+P995,Aucun,Aucun antécédent connu
+P996,Aucun,Aucun antécédent connu
+P997,Aucun,Aucun antécédent connu
+P998,Aucun,Aucun antécédent connu
+P999,Aucun,Aucun antécédent connu
+P1000,Aucun,Aucun antécédent connu
+P1001,Aucun,Aucun antécédent connu
+P1002,Aucun,Aucun antécédent connu
+P1003,Aucun,Aucun antécédent connu
+P1004,Père,Diabète de type 2
+P1004,Grand-parent,Diabète de type 2
+P1004,Grand-parent,Hypertension
+P1005,Aucun,Aucun antécédent connu
+P1006,Sœur,Diabète de type 2
+P1006,Grand-parent,Hypertension
+P1007,Aucun,Aucun antécédent connu
+P1008,Aucun,Aucun antécédent connu
+P1009,Aucun,Aucun antécédent connu
+P1010,Mère,Hypertension
+P1010,Frère,Maladie cardiovasculaire
+P1010,Sœur,Diabète de type 2
+P1011,Aucun,Aucun antécédent connu
+P1012,Aucun,Aucun antécédent connu
+P1013,Aucun,Aucun antécédent connu
+P1014,Aucun,Aucun antécédent connu
+P1015,Aucun,Aucun antécédent connu
+P1016,Aucun,Aucun antécédent connu
+P1017,Aucun,Aucun antécédent connu
+P1018,Aucun,Aucun antécédent connu
+P1019,Aucun,Aucun antécédent connu
+P1020,Aucun,Aucun antécédent connu
+P1021,Aucun,Aucun antécédent connu
+P1022,Aucun,Aucun antécédent connu
+P1023,Aucun,Aucun antécédent connu
+P1024,Aucun,Aucun antécédent connu
+P1025,Aucun,Aucun antécédent connu
+P1026,Aucun,Aucun antécédent connu
+P1027,Aucun,Aucun antécédent connu
+P1028,Aucun,Aucun antécédent connu
+P1029,Aucun,Aucun antécédent connu
+P1030,Aucun,Aucun antécédent connu
+P1031,Aucun,Aucun antécédent connu
+P1032,Aucun,Aucun antécédent connu
+P1033,Aucun,Aucun antécédent connu
+P1034,Aucun,Aucun antécédent connu
+P1035,Aucun,Aucun antécédent connu
+P1036,Aucun,Aucun antécédent connu
+P1037,Aucun,Aucun antécédent connu
+P1038,Aucun,Aucun antécédent connu
+P1039,Aucun,Aucun antécédent connu
+P1040,Aucun,Aucun antécédent connu
+P1041,Aucun,Aucun antécédent connu
+P1042,Aucun,Aucun antécédent connu
+P1043,Aucun,Aucun antécédent connu
+P1044,Aucun,Aucun antécédent connu
+P1045,Aucun,Aucun antécédent connu
+P1046,Aucun,Aucun antécédent connu
+P1047,Aucun,Aucun antécédent connu
+P1048,Aucun,Aucun antécédent connu
+P1049,Grand-parent,Diabète de type 2
+P1050,Aucun,Aucun antécédent connu
+P1051,Aucun,Aucun antécédent connu
+P1052,Aucun,Aucun antécédent connu
+P1053,Aucun,Aucun antécédent connu
+P1054,Frère,Diabète de type 2
+P1055,Aucun,Aucun antécédent connu
+P1056,Aucun,Aucun antécédent connu
+P1057,Mère,Obésité
+P1057,Sœur,Maladie cardiovasculaire
+P1058,Sœur,Diabète de type 2
+P1058,Mère,Maladie cardiovasculaire
+P1059,Aucun,Aucun antécédent connu
+P1060,Aucun,Aucun antécédent connu
+P1061,Grand-parent,Maladie cardiovasculaire
+P1062,Aucun,Aucun antécédent connu
+P1063,Aucun,Aucun antécédent connu
+P1064,Sœur,Maladie cardiovasculaire
+P1065,Aucun,Aucun antécédent connu
+P1066,Aucun,Aucun antécédent connu
+P1067,Aucun,Aucun antécédent connu
+P1068,Aucun,Aucun antécédent connu
+P1069,Aucun,Aucun antécédent connu
+P1070,Aucun,Aucun antécédent connu
+P1071,Aucun,Aucun antécédent connu
+P1072,Aucun,Aucun antécédent connu
+P1073,Aucun,Aucun antécédent connu
+P1074,Aucun,Aucun antécédent connu
+P1075,Aucun,Aucun antécédent connu
+P1076,Aucun,Aucun antécédent connu
+P1077,Aucun,Aucun antécédent connu
+P1078,Père,Diabète de type 2
+P1078,Père,Hypertension
+P1079,Aucun,Aucun antécédent connu
+P1080,Aucun,Aucun antécédent connu
+P1081,Aucun,Aucun antécédent connu
+P1082,Aucun,Aucun antécédent connu
+P1083,Aucun,Aucun antécédent connu
+P1084,Aucun,Aucun antécédent connu
+P1085,Aucun,Aucun antécédent connu
+P1086,Aucun,Aucun antécédent connu
+P1087,Mère,Hypertension
+P1087,Sœur,Maladie cardiovasculaire
+P1087,Grand-parent,Maladie cardiovasculaire
+P1088,Aucun,Aucun antécédent connu
+P1089,Aucun,Aucun antécédent connu
+P1090,Aucun,Aucun antécédent connu
+P1091,Aucun,Aucun antécédent connu
+P1092,Aucun,Aucun antécédent connu
+P1093,Aucun,Aucun antécédent connu
+P1094,Aucun,Aucun antécédent connu
+P1095,Aucun,Aucun antécédent connu
+P1096,Aucun,Aucun antécédent connu
+P1097,Aucun,Aucun antécédent connu
+P1098,Mère,Diabète de type 2
+P1099,Aucun,Aucun antécédent connu
+P1100,Aucun,Aucun antécédent connu
+P1101,Aucun,Aucun antécédent connu
+P1102,Aucun,Aucun antécédent connu
+P1103,Aucun,Aucun antécédent connu
+P1104,Aucun,Aucun antécédent connu
+P1105,Aucun,Aucun antécédent connu
+P1106,Aucun,Aucun antécédent connu
+P1107,Aucun,Aucun antécédent connu
+P1108,Aucun,Aucun antécédent connu
+P1109,Frère,Maladie cardiovasculaire
+P1110,Frère,Maladie cardiovasculaire
+P1111,Aucun,Aucun antécédent connu
+P1112,Aucun,Aucun antécédent connu
+P1113,Aucun,Aucun antécédent connu
+P1114,Aucun,Aucun antécédent connu
+P1115,Aucun,Aucun antécédent connu
+P1116,Aucun,Aucun antécédent connu
+P1117,Aucun,Aucun antécédent connu
+P1118,Aucun,Aucun antécédent connu
+P1119,Aucun,Aucun antécédent connu
+P1120,Aucun,Aucun antécédent connu
+P1121,Frère,Diabète de type 2
+P1121,Père,Hypertension
+P1121,Grand-parent,Hypertension
+P1122,Aucun,Aucun antécédent connu
+P1123,Aucun,Aucun antécédent connu
+P1124,Aucun,Aucun antécédent connu
+P1125,Aucun,Aucun antécédent connu
+P1126,Aucun,Aucun antécédent connu
+P1127,Aucun,Aucun antécédent connu
+P1128,Aucun,Aucun antécédent connu
+P1129,Aucun,Aucun antécédent connu
+P1130,Aucun,Aucun antécédent connu
+P1131,Aucun,Aucun antécédent connu
+P1132,Aucun,Aucun antécédent connu
+P1133,Aucun,Aucun antécédent connu
+P1134,Aucun,Aucun antécédent connu
+P1135,Aucun,Aucun antécédent connu
+P1136,Aucun,Aucun antécédent connu
+P1137,Aucun,Aucun antécédent connu
+P1138,Aucun,Aucun antécédent connu
+P1139,Aucun,Aucun antécédent connu
+P1140,Aucun,Aucun antécédent connu
+P1141,Frère,Hypertension
+P1142,Aucun,Aucun antécédent connu
+P1143,Aucun,Aucun antécédent connu
+P1144,Aucun,Aucun antécédent connu
+P1145,Aucun,Aucun antécédent connu
+P1146,Aucun,Aucun antécédent connu
+P1147,Aucun,Aucun antécédent connu
+P1148,Aucun,Aucun antécédent connu
+P1149,Aucun,Aucun antécédent connu
+P1150,Aucun,Aucun antécédent connu
+P1151,Aucun,Aucun antécédent connu
+P1152,Aucun,Aucun antécédent connu
+P1153,Aucun,Aucun antécédent connu
+P1154,Aucun,Aucun antécédent connu
+P1155,Père,Diabète de type 2
+P1156,Aucun,Aucun antécédent connu
+P1157,Aucun,Aucun antécédent connu
+P1158,Aucun,Aucun antécédent connu
+P1159,Aucun,Aucun antécédent connu
+P1160,Père,Obésité
+P1160,Grand-parent,Diabète de type 2
+P1161,Grand-parent,Hypertension
+P1161,Sœur,Maladie cardiovasculaire
+P1162,Sœur,Diabète de type 2
+P1162,Mère,Diabète de type 2
+P1163,Sœur,Hypertension
+P1164,Frère,Diabète de type 2
+P1164,Frère,Diabète de type 2
+P1164,Sœur,Diabète de type 2
+P1165,Aucun,Aucun antécédent connu
+P1166,Aucun,Aucun antécédent connu
+P1167,Aucun,Aucun antécédent connu
+P1168,Aucun,Aucun antécédent connu
+P1169,Aucun,Aucun antécédent connu
+P1170,Aucun,Aucun antécédent connu
+P1171,Aucun,Aucun antécédent connu
+P1172,Aucun,Aucun antécédent connu
+P1173,Aucun,Aucun antécédent connu
+P1174,Aucun,Aucun antécédent connu
+P1175,Frère,Maladie cardiovasculaire
+P1175,Mère,Maladie cardiovasculaire
+P1175,Père,Maladie cardiovasculaire
+P1176,Aucun,Aucun antécédent connu
+P1177,Père,Obésité
+P1178,Aucun,Aucun antécédent connu
+P1179,Aucun,Aucun antécédent connu
+P1180,Aucun,Aucun antécédent connu
+P1181,Mère,Hypertension
+P1182,Aucun,Aucun antécédent connu
+P1183,Aucun,Aucun antécédent connu
+P1184,Grand-parent,Hypertension
+P1184,Grand-parent,Maladie cardiovasculaire
+P1185,Aucun,Aucun antécédent connu
+P1186,Aucun,Aucun antécédent connu
+P1187,Aucun,Aucun antécédent connu
+P1188,Aucun,Aucun antécédent connu
+P1189,Frère,Diabète de type 2
+P1190,Aucun,Aucun antécédent connu
+P1191,Aucun,Aucun antécédent connu
+P1192,Aucun,Aucun antécédent connu
+P1193,Aucun,Aucun antécédent connu
+P1194,Aucun,Aucun antécédent connu
+P1195,Aucun,Aucun antécédent connu
+P1196,Aucun,Aucun antécédent connu
+P1197,Aucun,Aucun antécédent connu
+P1198,Aucun,Aucun antécédent connu
+P1199,Aucun,Aucun antécédent connu
+P1200,Aucun,Aucun antécédent connu
+P1201,Aucun,Aucun antécédent connu
+P1202,Aucun,Aucun antécédent connu
+P1203,Aucun,Aucun antécédent connu
+P1204,Aucun,Aucun antécédent connu
+P1205,Mère,Hypertension
+P1206,Aucun,Aucun antécédent connu
+P1207,Aucun,Aucun antécédent connu
+P1208,Aucun,Aucun antécédent connu
+P1209,Aucun,Aucun antécédent connu
+P1210,Sœur,Obésité
+P1210,Frère,Diabète de type 2
+P1210,Mère,Maladie cardiovasculaire
+P1211,Père,Obésité
+P1211,Frère,Diabète de type 2
+P1211,Sœur,Maladie cardiovasculaire
+P1212,Mère,Maladie cardiovasculaire
+P1213,Aucun,Aucun antécédent connu
+P1214,Aucun,Aucun antécédent connu
+P1215,Aucun,Aucun antécédent connu
+P1216,Aucun,Aucun antécédent connu
+P1217,Aucun,Aucun antécédent connu
+P1218,Aucun,Aucun antécédent connu
+P1219,Père,Diabète de type 2
+P1220,Aucun,Aucun antécédent connu
+P1221,Aucun,Aucun antécédent connu
+P1222,Aucun,Aucun antécédent connu
+P1223,Aucun,Aucun antécédent connu
+P1224,Aucun,Aucun antécédent connu
+P1225,Mère,Maladie cardiovasculaire
+P1226,Frère,Diabète de type 2
+P1227,Aucun,Aucun antécédent connu
+P1228,Aucun,Aucun antécédent connu
+P1229,Aucun,Aucun antécédent connu
+P1230,Aucun,Aucun antécédent connu
+P1231,Aucun,Aucun antécédent connu
+P1232,Aucun,Aucun antécédent connu
+P1233,Aucun,Aucun antécédent connu
+P1234,Aucun,Aucun antécédent connu
+P1235,Aucun,Aucun antécédent connu
+P1236,Aucun,Aucun antécédent connu
+P1237,Aucun,Aucun antécédent connu
+P1238,Grand-parent,Hypertension
+P1239,Mère,Hypertension
+P1239,Père,Obésité
+P1240,Aucun,Aucun antécédent connu
+P1241,Frère,Hypertension
+P1242,Aucun,Aucun antécédent connu
+P1243,Aucun,Aucun antécédent connu
+P1244,Aucun,Aucun antécédent connu
+P1245,Aucun,Aucun antécédent connu
+P1246,Aucun,Aucun antécédent connu
+P1247,Aucun,Aucun antécédent connu
+P1248,Aucun,Aucun antécédent connu
+P1249,Aucun,Aucun antécédent connu
+P1250,Aucun,Aucun antécédent connu
+P1251,Aucun,Aucun antécédent connu
+P1252,Aucun,Aucun antécédent connu
+P1253,Aucun,Aucun antécédent connu
+P1254,Frère,Diabète de type 2
+P1255,Aucun,Aucun antécédent connu
+P1256,Aucun,Aucun antécédent connu
+P1257,Aucun,Aucun antécédent connu
+P1258,Aucun,Aucun antécédent connu
+P1259,Aucun,Aucun antécédent connu
+P1260,Aucun,Aucun antécédent connu
+P1261,Père,Maladie cardiovasculaire
+P1262,Aucun,Aucun antécédent connu
+P1263,Aucun,Aucun antécédent connu
+P1264,Aucun,Aucun antécédent connu
+P1265,Aucun,Aucun antécédent connu
+P1266,Aucun,Aucun antécédent connu
+P1267,Mère,Obésité
+P1268,Aucun,Aucun antécédent connu
+P1269,Aucun,Aucun antécédent connu
+P1270,Aucun,Aucun antécédent connu
+P1271,Frère,Hypertension
+P1272,Grand-parent,Obésité
+P1273,Aucun,Aucun antécédent connu
+P1274,Aucun,Aucun antécédent connu
+P1275,Aucun,Aucun antécédent connu
+P1276,Aucun,Aucun antécédent connu
+P1277,Grand-parent,Maladie cardiovasculaire
+P1278,Aucun,Aucun antécédent connu
+P1279,Aucun,Aucun antécédent connu
+P1280,Sœur,Maladie cardiovasculaire
+P1281,Aucun,Aucun antécédent connu
+P1282,Aucun,Aucun antécédent connu
+P1283,Aucun,Aucun antécédent connu
+P1284,Aucun,Aucun antécédent connu
+P1285,Aucun,Aucun antécédent connu
+P1286,Aucun,Aucun antécédent connu
+P1287,Aucun,Aucun antécédent connu
+P1288,Mère,Obésité
+P1288,Père,Obésité
+P1289,Aucun,Aucun antécédent connu
+P1290,Aucun,Aucun antécédent connu
+P1291,Aucun,Aucun antécédent connu
+P1292,Aucun,Aucun antécédent connu
+P1293,Aucun,Aucun antécédent connu
+P1294,Aucun,Aucun antécédent connu
+P1295,Aucun,Aucun antécédent connu
+P1296,Aucun,Aucun antécédent connu
+P1297,Aucun,Aucun antécédent connu
+P1298,Père,Diabète de type 2
+P1298,Sœur,Maladie cardiovasculaire
+P1298,Grand-parent,Hypertension
+P1299,Aucun,Aucun antécédent connu
+P1300,Aucun,Aucun antécédent connu
+P1301,Aucun,Aucun antécédent connu
+P1302,Aucun,Aucun antécédent connu
+P1303,Aucun,Aucun antécédent connu
+P1304,Mère,Hypertension
+P1305,Aucun,Aucun antécédent connu
+P1306,Sœur,Diabète de type 2
+P1307,Aucun,Aucun antécédent connu
+P1308,Aucun,Aucun antécédent connu
+P1309,Aucun,Aucun antécédent connu
+P1310,Aucun,Aucun antécédent connu
+P1311,Aucun,Aucun antécédent connu
+P1312,Aucun,Aucun antécédent connu
+P1313,Aucun,Aucun antécédent connu
+P1314,Aucun,Aucun antécédent connu
+P1315,Aucun,Aucun antécédent connu
+P1316,Aucun,Aucun antécédent connu
+P1317,Aucun,Aucun antécédent connu
+P1318,Aucun,Aucun antécédent connu
+P1319,Aucun,Aucun antécédent connu
+P1320,Frère,Hypertension
+P1321,Aucun,Aucun antécédent connu
+P1322,Aucun,Aucun antécédent connu
+P1323,Aucun,Aucun antécédent connu
+P1324,Grand-parent,Obésité
+P1325,Aucun,Aucun antécédent connu
+P1326,Aucun,Aucun antécédent connu
+P1327,Aucun,Aucun antécédent connu
+P1328,Père,Maladie cardiovasculaire
+P1328,Grand-parent,Maladie cardiovasculaire
+P1329,Aucun,Aucun antécédent connu
+P1330,Aucun,Aucun antécédent connu
+P1331,Aucun,Aucun antécédent connu
+P1332,Aucun,Aucun antécédent connu
+P1333,Mère,Obésité
+P1333,Sœur,Maladie cardiovasculaire
+P1333,Grand-parent,Obésité
+P1334,Aucun,Aucun antécédent connu
+P1335,Aucun,Aucun antécédent connu
+P1336,Aucun,Aucun antécédent connu
+P1337,Aucun,Aucun antécédent connu
+P1338,Aucun,Aucun antécédent connu
+P1339,Aucun,Aucun antécédent connu
+P1340,Aucun,Aucun antécédent connu
+P1341,Aucun,Aucun antécédent connu
+P1342,Aucun,Aucun antécédent connu
+P1343,Aucun,Aucun antécédent connu
+P1344,Aucun,Aucun antécédent connu
+P1345,Aucun,Aucun antécédent connu
+P1346,Aucun,Aucun antécédent connu
+P1347,Aucun,Aucun antécédent connu
+P1348,Aucun,Aucun antécédent connu
+P1349,Aucun,Aucun antécédent connu
+P1350,Aucun,Aucun antécédent connu
+P1351,Frère,Maladie cardiovasculaire
+P1351,Père,Diabète de type 2
+P1352,Sœur,Obésité
+P1353,Aucun,Aucun antécédent connu
+P1354,Aucun,Aucun antécédent connu
+P1355,Aucun,Aucun antécédent connu
+P1356,Aucun,Aucun antécédent connu
+P1357,Sœur,Obésité
+P1358,Aucun,Aucun antécédent connu
+P1359,Aucun,Aucun antécédent connu
+P1360,Aucun,Aucun antécédent connu
+P1361,Mère,Hypertension
+P1362,Aucun,Aucun antécédent connu
+P1363,Aucun,Aucun antécédent connu
+P1364,Père,Diabète de type 2
+P1364,Mère,Diabète de type 2
+P1365,Aucun,Aucun antécédent connu
+P1366,Aucun,Aucun antécédent connu
+P1367,Frère,Hypertension
+P1367,Père,Hypertension
+P1368,Aucun,Aucun antécédent connu
+P1369,Aucun,Aucun antécédent connu
+P1370,Aucun,Aucun antécédent connu
+P1371,Grand-parent,Hypertension
+P1372,Aucun,Aucun antécédent connu
+P1373,Aucun,Aucun antécédent connu
+P1374,Aucun,Aucun antécédent connu
+P1375,Aucun,Aucun antécédent connu
+P1376,Aucun,Aucun antécédent connu
+P1377,Frère,Diabète de type 2
+P1378,Aucun,Aucun antécédent connu
+P1379,Aucun,Aucun antécédent connu
+P1380,Aucun,Aucun antécédent connu
+P1381,Aucun,Aucun antécédent connu
+P1382,Aucun,Aucun antécédent connu
+P1383,Sœur,Hypertension
+P1383,Frère,Diabète de type 2
+P1384,Aucun,Aucun antécédent connu
+P1385,Aucun,Aucun antécédent connu
+P1386,Aucun,Aucun antécédent connu
+P1387,Grand-parent,Maladie cardiovasculaire
+P1387,Frère,Diabète de type 2
+P1388,Père,Diabète de type 2
+P1388,Sœur,Maladie cardiovasculaire
+P1388,Grand-parent,Hypertension
+P1389,Aucun,Aucun antécédent connu
+P1390,Aucun,Aucun antécédent connu
+P1391,Aucun,Aucun antécédent connu
+P1392,Aucun,Aucun antécédent connu
+P1393,Mère,Diabète de type 2
+P1393,Frère,Diabète de type 2
+P1394,Aucun,Aucun antécédent connu
+P1395,Aucun,Aucun antécédent connu
+P1396,Aucun,Aucun antécédent connu
+P1397,Aucun,Aucun antécédent connu
+P1398,Frère,Hypertension
+P1398,Mère,Maladie cardiovasculaire
+P1399,Aucun,Aucun antécédent connu
+P1400,Aucun,Aucun antécédent connu
+P1401,Sœur,Maladie cardiovasculaire
+P1402,Aucun,Aucun antécédent connu
+P1403,Aucun,Aucun antécédent connu
+P1404,Aucun,Aucun antécédent connu
+P1405,Aucun,Aucun antécédent connu
+P1406,Aucun,Aucun antécédent connu
+P1407,Grand-parent,Diabète de type 2
+P1408,Aucun,Aucun antécédent connu
+P1409,Aucun,Aucun antécédent connu
+P1410,Aucun,Aucun antécédent connu
+P1411,Aucun,Aucun antécédent connu
+P1412,Aucun,Aucun antécédent connu
+P1413,Aucun,Aucun antécédent connu
+P1414,Aucun,Aucun antécédent connu
+P1415,Aucun,Aucun antécédent connu
+P1416,Aucun,Aucun antécédent connu
+P1417,Aucun,Aucun antécédent connu
+P1418,Aucun,Aucun antécédent connu
+P1419,Aucun,Aucun antécédent connu
+P1420,Aucun,Aucun antécédent connu
+P1421,Aucun,Aucun antécédent connu
+P1422,Aucun,Aucun antécédent connu
+P1423,Sœur,Obésité
+P1424,Aucun,Aucun antécédent connu
+P1425,Aucun,Aucun antécédent connu
+P1426,Père,Hypertension
+P1427,Aucun,Aucun antécédent connu
+P1428,Aucun,Aucun antécédent connu
+P1429,Aucun,Aucun antécédent connu
+P1430,Sœur,Maladie cardiovasculaire
+P1431,Aucun,Aucun antécédent connu
+P1432,Aucun,Aucun antécédent connu
+P1433,Aucun,Aucun antécédent connu
+P1434,Sœur,Diabète de type 2
+P1435,Aucun,Aucun antécédent connu
+P1436,Aucun,Aucun antécédent connu
+P1437,Aucun,Aucun antécédent connu
+P1438,Aucun,Aucun antécédent connu
+P1439,Frère,Obésité
+P1440,Aucun,Aucun antécédent connu
+P1441,Frère,Diabète de type 2
+P1442,Aucun,Aucun antécédent connu
+P1443,Frère,Obésité
+P1443,Grand-parent,Obésité
+P1444,Aucun,Aucun antécédent connu
+P1445,Aucun,Aucun antécédent connu
+P1446,Aucun,Aucun antécédent connu
+P1447,Aucun,Aucun antécédent connu
+P1448,Aucun,Aucun antécédent connu
+P1449,Aucun,Aucun antécédent connu
+P1450,Aucun,Aucun antécédent connu
+P1451,Aucun,Aucun antécédent connu
+P1452,Aucun,Aucun antécédent connu
+P1453,Grand-parent,Obésité
+P1454,Aucun,Aucun antécédent connu
+P1455,Aucun,Aucun antécédent connu
+P1456,Aucun,Aucun antécédent connu
+P1457,Frère,Obésité
+P1458,Aucun,Aucun antécédent connu
+P1459,Aucun,Aucun antécédent connu
+P1460,Aucun,Aucun antécédent connu
+P1461,Aucun,Aucun antécédent connu
+P1462,Aucun,Aucun antécédent connu
+P1463,Aucun,Aucun antécédent connu
+P1464,Aucun,Aucun antécédent connu
+P1465,Aucun,Aucun antécédent connu
+P1466,Aucun,Aucun antécédent connu
+P1467,Grand-parent,Diabète de type 2
+P1467,Mère,Maladie cardiovasculaire
+P1468,Grand-parent,Hypertension
+P1468,Sœur,Diabète de type 2
+P1469,Aucun,Aucun antécédent connu
+P1470,Sœur,Hypertension
+P1470,Frère,Hypertension
+P1470,Frère,Diabète de type 2
+P1471,Aucun,Aucun antécédent connu
+P1472,Aucun,Aucun antécédent connu
+P1473,Aucun,Aucun antécédent connu
+P1474,Aucun,Aucun antécédent connu
+P1475,Aucun,Aucun antécédent connu
+P1476,Aucun,Aucun antécédent connu
+P1477,Aucun,Aucun antécédent connu
+P1478,Sœur,Diabète de type 2
+P1479,Sœur,Obésité
+P1479,Grand-parent,Diabète de type 2
+P1479,Frère,Obésité
+P1480,Aucun,Aucun antécédent connu
+P1481,Grand-parent,Diabète de type 2
+P1481,Grand-parent,Diabète de type 2
+P1481,Grand-parent,Hypertension
+P1482,Aucun,Aucun antécédent connu
+P1483,Grand-parent,Diabète de type 2
+P1484,Aucun,Aucun antécédent connu
+P1485,Aucun,Aucun antécédent connu
+P1486,Aucun,Aucun antécédent connu
+P1487,Aucun,Aucun antécédent connu
+P1488,Aucun,Aucun antécédent connu
+P1489,Aucun,Aucun antécédent connu
+P1490,Père,Hypertension
+P1491,Mère,Hypertension
+P1491,Mère,Obésité
+P1492,Sœur,Diabète de type 2
+P1492,Grand-parent,Diabète de type 2
+P1492,Père,Hypertension
+P1493,Aucun,Aucun antécédent connu
+P1494,Aucun,Aucun antécédent connu
+P1495,Grand-parent,Diabète de type 2
+P1495,Mère,Diabète de type 2
+P1496,Aucun,Aucun antécédent connu
+P1497,Aucun,Aucun antécédent connu
+P1498,Aucun,Aucun antécédent connu
+P1499,Aucun,Aucun antécédent connu
+P1500,Aucun,Aucun antécédent connu

@@ -1,0 +1,25 @@
+[project]
+name = "project-d"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "ismail", email = "ismajesuis@live.fr" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "jinja2>=3.1.6",
+    "matplotlib>=3.11.2",
+    "pyjanitor>=0.32.76",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "shap>=0.54.1",
+    "xgboost>=3.4.1",
+]
+
+[project.scripts]
+project-d = "project_d:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
